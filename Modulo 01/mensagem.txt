@@ -1,0 +1,2 @@
+Olá, este arquivo foi criado com Node.js! 🚀
+Nova linha adicionada com append.
