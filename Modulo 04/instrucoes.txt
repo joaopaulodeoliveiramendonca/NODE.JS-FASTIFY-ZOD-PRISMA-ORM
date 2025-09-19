@@ -1,0 +1,4 @@
+npm init -y
+npm i prisma @prisma/client fastify zod
+npx prisma init             # cria prisma/ e .env (você já tem acima)
+npx prisma migrate dev --name init

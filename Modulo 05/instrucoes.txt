@@ -1,0 +1,7 @@
+npm i
+
+npx prisma init
+
+npm run prisma:migrate -- --name init_fase5
+
+npm run dev
